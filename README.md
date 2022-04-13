@@ -1,4 +1,4 @@
-#Curso-em-vídeo-PYTHON
+# Curso-em-vídeo-PYTHON
 ### Exercícios do canal Curso em vídeo (PYTHON)  
 
 - Meus primeiros contatos com programação e meus primeiros códigos
