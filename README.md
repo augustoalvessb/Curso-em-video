@@ -4,5 +4,37 @@
 - Meus primeiros contatos com programação e meus primeiros códigos
 - Exercícios feitos para treinar os códigos e reforçar o aprendizado da linguagem python
 - ex01 - "Hello World"
-- ex02 - Respondendo o Usúario
+- ex02 - Respondendo o Usuário
 - ex03 - Somando 2 números
+- ex04 - Dissecando uma Variável
+- ex05 - Antecessor e Sucessor
+- ex06 - Dobro, Triplo e Raiz Quadrada
+- ex07 - Média Aritmética
+- ex08 - Conversor de Medidas
+- ex09 - Tabuada
+- ex10 - Conversor de moedas
+- ex11 - Pintando parede
+- ex12 - Calculando descontos
+- ex13 - Reajuste Salarial 
+- ex14 - Conversor de temperaturas
+- ex15 - Aluguel de carros
+- ex16 - Quebrando um número
+- ex17 - Catetos e hipotenusa
+- ex18 - Seno, Cosseno e Tangente
+- ex19 - Sorteando um item da lista
+- ex20 - Sorteando uma ordem na lista
+- ex21 - Tocando um MP3
+- ex22 - Analisador de Textos
+- ex23 - Separando dígitos de um número
+- ex24 - Verificando as primeiras letras de um texto
+- ex25 - Procurar um string dentro de outra
+- ex26 - Primeira e última ocorrência de uma string
+- ex27 - Primeiro e último nome de uma pessoa
+- ex28 - Jogo da Adivinhação
+- ex29 - Radar eletrônico
+- ex30 - Par ou Ímpar
+- ex31 - Custo da Viagem
+- ex32 - Ano bissexto
+- ex33 - Maior e menor valores
+- ex34 - Aumentos múltiplos
+- ex35 - Analisando Triângulos
